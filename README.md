@@ -14,7 +14,7 @@ For authentication I used JWT token (JSON Web Tokens). Also used web sockets to 
 
 ## Languages & Tools Used 
 
-### MERN 
+MERN 
 
 ## Screenshots
 
@@ -49,7 +49,7 @@ See the below link to setup Atlas
 
 <a href="https://docs.atlas.mongodb.com/getting-started/">Click Here</a>
 
-# Documentation
+## Documentation
 
 <a href="https://nodejs.org/en/docs/">Nodejs Docs</a><br/>
 <a href="https://mongoosejs.com/docs/api.html/">Mongoose Docs</a><br/>
